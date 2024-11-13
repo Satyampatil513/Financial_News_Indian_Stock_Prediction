@@ -22,3 +22,6 @@ You can install these dependencies using pip:
 
 ```bash
 pip install tensorflow matplotlib scikit-learn
+```
+
+- Team : Bhumesh Gaur, Satyam Patil
